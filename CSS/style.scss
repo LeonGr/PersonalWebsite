@@ -12,7 +12,7 @@ html, body{
 	z-index: -1;
 
 	display: block;
-	background: url(city.jpg);
+	background: url(/images/city.jpg);
 	background-size: cover;
 }
 
@@ -137,7 +137,7 @@ footer {
 	}
 
 	.mail {
-		background: url(mail.png);
+		background: url(/images/mail.png);
 		background-size: cover;
 		
 		&:hover {
@@ -153,7 +153,7 @@ footer {
 	}
 
 	.codepen {
-		background: url(codepen.png);
+		background: url(/images/codepen.png);
 		background-size: cover;
 
 		&:hover {
@@ -169,7 +169,7 @@ footer {
 	}
 
 	.github {
-		background: url(github.png);
+		background: url(/images/github.png);
 		background-size: cover;
 		
 		&:hover {
