@@ -11,7 +11,7 @@ html, body {
   right: 0;
   z-index: -1;
   display: block;
-  background: url(/imgs/city.jpg);
+  background: url(../imgs/city.jpg);
   background-size: cover; }
 
 .background-image:before {
@@ -108,7 +108,7 @@ footer {
     line-height: 150px;
     transition: opacity 0.3s ease; }
   footer .mail {
-    background: url(/imgs/mail.png);
+    background: url(../imgs/mail.png);
     background-size: cover; }
     footer .mail:hover {
       opacity: 0;
@@ -118,7 +118,7 @@ footer {
     background: #63A1D2;
     right: 300px; }
   footer .codepen {
-    background: url(/imgs/codepen.png);
+    background: url(../imgs/codepen.png);
     background-size: cover; }
     footer .codepen:hover {
       opacity: 0;
@@ -128,7 +128,7 @@ footer {
     background: #426c8d;
     right: 150px; }
   footer .github {
-    background: url(/imgs/github.png);
+    background: url(../imgs/github.png);
     background-size: cover; }
     footer .github:hover {
       opacity: 0;
